@@ -1,0 +1,3 @@
+/Users/matya/Documents/CPP/AG1/Progtest1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/matya/Documents/CPP/AG1/Progtest1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matya/Documents/CPP/AG1/Progtest1/cmake-build-debug/CMakeFiles/AG1_Progtest1.dir
