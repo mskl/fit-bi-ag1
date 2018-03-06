@@ -1,4 +1,4 @@
-# fit-bi-ag1
+# **fit-bi-ag1** [Algorithms and Graphs]
 AG1 course at FIT CTU. This repository contains my solutions to the homework assignments.
 
 ## Assignment 1 - DFS [10/10]
